@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Open the printed local URL (usually http://localhost:5173).
+Vercel :  https://e-commerce-assignment-nu.vercel.app
 
 ## Build for production
 
